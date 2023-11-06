@@ -1,0 +1,3 @@
+Sun Nov  5 23:07:46 2023
+WARNING: mju_openResource: unknown file 'phc/data/assets/mjcf/smpl_humanoid.xml'
+
