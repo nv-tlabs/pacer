@@ -12,7 +12,7 @@ Official implementation of PACER, Pedestrian Animation ControllER, of CVPR 2023 
 
 ## News 🚩
 
-[Nov 1, 2023] Code released.
+[Nov 6, 2023] Code released.
 
 ## Introduction
 This repo implements PACER, Pedestrian Animation ControllER. PACER is a framework for controlling simulated humanoids of different body shapes to navigate diverse type of terrains while avoiding obstacles and other humanoids. PACER is built upon the [AMP](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) code base and trained with selected locomotion sequences from the AMASS dataset. 
