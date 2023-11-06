@@ -53,8 +53,6 @@ Use the following script to download trained models and sample data.
 bash download_data.sh
 ```
 
-You will need to have downloaded smpl model files from [SMPL](https://smpl.is.tue.mpg.de/), [SMPL-H](https://smpl.is.tue.mpg.de/downloads), and [SMPL-X](https://smpl-x.is.tue.mpg.de/downloads).
-
 ### Training
 
 We train on a subset of the [AMASS](https://amass.is.tue.mpg.de/) dataset.
@@ -151,5 +149,6 @@ This repository is built on top of the following amazing repositories:
 * Main code framework is from: [AMP](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 * Part of the SMPL_robot code is from: [UHC](https://github.com/ZhengyiLuo/UniversalHumanoidControl)
 * SMPL models and layer is from: [SMPL-X model](https://github.com/vchoutas/smplx)
+* Some scripts are from [PHC](https://github.com/ZhengyiLuo/PerpetualHumanoidControl). PHC also has a more detailed README on SMPL_Robot. 
 
 Please follow the license of the above repositories for usage of that part of the codebase (the licenses are included in [this repo](./assets/licenses/)). 
